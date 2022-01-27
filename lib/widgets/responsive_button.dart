@@ -1,7 +1,9 @@
-import 'package:cubit_state_management/misc/colors.dart';
-import 'package:cubit_state_management/widgets/app_text.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:trailing_flutter/misc/colors.dart';
+
+import 'app_text.dart';
 
 class ResponsiveButton extends StatelessWidget {
   bool? isResponsive;

@@ -1,8 +1,10 @@
-import 'package:cubit_state_management/pages/navpages/bar_item.dart';
-import 'package:cubit_state_management/pages/home_page.dart';
-import 'package:cubit_state_management/pages/navpages/my_page.dart';
-import 'package:cubit_state_management/pages/navpages/search_page.dart';
+
 import 'package:flutter/material.dart';
+import 'package:trailing_flutter/pages/navpages/search_page.dart';
+
+import '../home_page.dart';
+import 'bar_item.dart';
+import 'my_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);

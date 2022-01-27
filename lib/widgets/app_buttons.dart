@@ -1,7 +1,8 @@
-import 'package:cubit_state_management/misc/colors.dart';
-import 'package:cubit_state_management/widgets/app_text.dart';
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+
+import 'app_text.dart';
 
 class AppButtons extends StatelessWidget {
   final Color color;
