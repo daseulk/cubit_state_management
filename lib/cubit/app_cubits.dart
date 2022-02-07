@@ -26,6 +26,7 @@ final DataServices data;
 
   goHome(){
     emit(LoadedState(places));
+
   }
 
 }
